@@ -8,7 +8,7 @@ layout: page
 I'm a research scientist working in the Google Quantum AI hardware pathfinding team.
 I was previously a PhD student at the University of California, Santa Barbara.
 
-My work focuses on experimental quantum error correction, particularly on implimenting the surface code and on resolving the effects of correlated errors like leakage.
+My work focuses on experimental quantum error correction, particularly on implementing the surface code and on resolving the effects of correlated errors like leakage.
 
 ## Selected Publications
 * _Demonstrating dynamic surface codes_,
